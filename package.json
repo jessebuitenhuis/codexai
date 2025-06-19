@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/jessebuitenhuis/codexai/issues"
   },
-  "homepage": "https://github.com/jessebuitenhuis/codexai#readme"
+  "homepage": "https://github.com/jessebuitenhuis/codexai#readme",
+  "devDependencies": {
+    "@nx/angular": "^21.2.0",
+    "@nx/node": "^21.2.0",
+    "@nx/react": "^21.2.0",
+    "nx": "21.2.0"
+  },
+  "nx": {}
 }
